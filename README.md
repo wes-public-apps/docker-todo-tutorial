@@ -1,2 +1,4 @@
-# docker-todo-tutorial
+# Docker ToDo Application Tutorial
 Project for completing docker tutorial
+
+
