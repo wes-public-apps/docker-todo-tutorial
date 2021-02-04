@@ -1,9 +1,8 @@
 # Docker ToDo Application Tutorial
 Project for completing docker tutorial
 
-# Deploy App
-Build it:
-sudo docker build -t todo-app .
+# Deploy using Docker Compose
+sudo docker-compose up -d
 
-Run it in background:
-sudo docker run -dp 3000:3000 todo-app
+# Stop Application
+sudo docker-compose down
