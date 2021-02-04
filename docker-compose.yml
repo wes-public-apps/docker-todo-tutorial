@@ -30,3 +30,5 @@ services:
 #Volume Definitions
 volumes:
   todo-mysql-data:
+
+#network for application stack is created automatically by docker compose.
